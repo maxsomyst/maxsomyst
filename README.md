@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ## Hi there...!👋, 
  
-![I'm a CSE student](https://imgur.com/ALXPKsa.png)
+![I'm a CSE student](https://imgur.com/Ey9TlxX)
  
  
 # My Skills
