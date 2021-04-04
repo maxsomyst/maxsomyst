@@ -6,9 +6,19 @@
  
  
 # My Skills
-**```C/ C++/ Python/ HTML / CSS/ JS ```**
+```yaml
+c
+```
+Python
+```
+HTML
+```
+CSS
+```
+JS
+ ```
  
-#### ```I’m currently working on automatlog.io```
+#### ```I’m currently working on my skills```
 #### ```I’m currently learning B.TECH CSE.```
  
  
