@@ -7,14 +7,18 @@
  
 # My Skills
 ```yaml
-c
+C
 ```
+```yaml
 Python
 ```
+```yaml
 HTML
 ```
+```yaml
 CSS
 ```
+```yaml
 JS
  ```
  
